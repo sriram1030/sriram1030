@@ -13,7 +13,7 @@ My Skills
 Web Designing
 Table
 Skill	Knowledge
-⭐ HTML & CSS	70%
+⭐ HTML & CSS	60%
 🌐 WordPress	80%
 🎨 Figma	75%
 📱 Responsive Designs	85%
