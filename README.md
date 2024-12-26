@@ -1,9 +1,42 @@
-Hi there, I'm Sriram!
-I’m a passionate developer constantly exploring new ways to make tech simple and effective. My projects range from front-end apps to backend solutions, and I love sharing what I learn along the way.
+Hi, I’m Sriram S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="center"> <img src="https://img.shields.io/badge/Portfolio-sriramsri.xyz-blue?style=for-the-badge" alt="Portfolio Badge" /> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey?style=for-the-badge&logo=github" alt="GitHub Follow Badge" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername" alt="Visitor Count" /> </p>
+“Creating responsive, user-friendly websites and solving complex problems—one line of code at a time!”
 
-• Visit my personal site for blog posts and project highlights:
-→ sriramsri.xyz
+About Me
+🌍 Location: Chennai, Tamil Nadu, India
+🎓 Education: Bachelor of Science in Computer Science
+💻 Experience: 10 months in the tech industry
+🎯 Goal: Grow professionally and make a positive impact on projects.
+With a passion for web development and a strong willingness to learn, I’m constantly expanding my skill set and looking for new challenges. I believe in the power of technology to simplify lives, and I aim to contribute solutions that genuinely help people.
 
-• Connect with me on GitHub to see everything I’m working on!
+My Skills
+Web Designing
+Table
+Skill	Knowledge
+⭐ HTML & CSS	70%
+🌐 WordPress	80%
+🎨 Figma	75%
+📱 Responsive Designs	85%
+Programming Languages
+Table
+Language	Knowledge
+☕ Java	50%
+🌐 JavaScript	50%
+🐘 PHP	65%
+🐍 Python	50%
+Tools
+Table
+Tool	Knowledge
+🗄️ MySQL	50%
+🖌️ Canva	85%
+✏️ Photoshop	75%
+🎞️ Filmora	80%
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="380" alt="GitHub Stats"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical" width="380" alt="GitHub Streak"/> </p>
+(Replace YourGitHubUsername with your actual GitHub username.)
 
-Thanks for stopping by—happy coding!
+Let’s Connect
+💼 Portfolio: sriramsri.xyz
+💡 LinkedIn: Sriram S
+✉️ Email: example@email.com
+“Thanks for visiting! Let's build something amazing together.”
