@@ -1,5 +1,5 @@
 Hi, I’m Sriram S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<p align="center"> <img src="https://img.shields.io/badge/Portfolio-sriramsri.xyz-blue?style=for-the-badge" alt="Portfolio Badge" /> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey?style=for-the-badge&logo=github" alt="GitHub Follow Badge" />  </p>
+<p align="center">   </p>
 “Creating responsive, user-friendly websites and solving complex problems—one line of code at a time!”
 
 About Me
