@@ -1,5 +1,5 @@
 Hi, I’m Sriram S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<p align="center"> <img src="https://img.shields.io/badge/Portfolio-sriramsri.xyz-blue?style=for-the-badge" alt="Portfolio Badge" /> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey?style=for-the-badge&logo=github" alt="GitHub Follow Badge" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=sriramsri1030.sriramsri1030" alt="Visitor Count" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Portfolio-sriramsri.xyz-blue?style=for-the-badge" alt="Portfolio Badge" /> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey?style=for-the-badge&logo=github" alt="GitHub Follow Badge" />  </p>
 “Creating responsive, user-friendly websites and solving complex problems—one line of code at a time!”
 
 About Me
@@ -32,7 +32,7 @@ Tool	Knowledge
 ✏️ Photoshop	75%
 🎞️ Filmora	80%
 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sriram1030&show_icons=true&theme=radical" width="380" alt="GitHub Stats"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=sriram1030&theme=radical" width="380" alt="GitHub Streak"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sriram1030&show_icons=true&theme=radical" width="380" alt="GitHub Stats"/> <br/> </p>
 
 Let’s Connect
 💼 Portfolio: sriramsri.xyz
