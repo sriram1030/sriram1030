@@ -32,7 +32,7 @@ Tool	Knowledge<br>
 ✏️ Photoshop	75%<br>
 🎞️ Filmora	80%<br>
 GitHub Stats<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sriram1030&show_icons=true&theme=radical" width="380" alt="GitHub Stats"/> <br/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sriram1030&show_icons=true&theme=radical" width="380" alt="GitHub Stats"/> <br/> </p>
 
 Let’s Connect<br/>
 💼 Portfolio: sriramsri.xyz<br/>
