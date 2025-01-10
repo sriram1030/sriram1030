@@ -1,5 +1,5 @@
 Hi, I’m Sriram S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<p align="center"> <img src="https://img.shields.io/badge/Portfolio-sriramsri.xyz-blue?style=for-the-badge" alt="Portfolio Badge" /> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey?style=for-the-badge&logo=github" alt="GitHub Follow Badge" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername" alt="Visitor Count" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Portfolio-sriramsri.xyz-blue?style=for-the-badge" alt="Portfolio Badge" /> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey?style=for-the-badge&logo=github" alt="GitHub Follow Badge" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=sriramsri1030.sriramsri1030" alt="Visitor Count" /> </p>
 “Creating responsive, user-friendly websites and solving complex problems—one line of code at a time!”
 
 About Me
